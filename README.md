@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibidapo-Ayo
-- 👀 I’m interested in Django, React
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on Django and React
+- 👀 I’m interested in HTML, CSS, JS, Bootstrap, PHP React native
+- 🌱 I’m currently learning React native
+- 💞️ I’m looking to collaborate on React native
 - 📫 How to reach me +234 706 540 3591
 
 <!---
