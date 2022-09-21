@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibidapo-Ayo
-- 👀 I’m interested in HTML, CSS, JS, Bootstrap, PHP React native
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on React native
+- 👀 I’m interested in HTML, CSS, JS, Bootstrap, PHP, React JS
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS
 - 📫 How to reach me +234 706 540 3591
 
 <!---
