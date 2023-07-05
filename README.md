@@ -9,7 +9,7 @@ Front end website developer
 
 
 
-My name is Ibidapo Ayomide and I'm a qualified Front-end website developer. I have 5+ years of experience in Frontend web development. I am speedy and efficient and I take pride in my work. I would love to assist you in Front-end and WordPress projects. I have strong knowledge in the latest Front-end development technologies, HTML5, CSS3, Bootstrap, Tailwind, JavaScript, Sass, WordPress and JQuery.
+My name is Ibidapo Ayomide and I'm a qualified Front-end website developer. I have 3+ years of experience in Frontend web development. I am speedy and efficient and I take pride in my work. I would love to assist you in Front-end and WordPress projects. I have strong knowledge in the latest Front-end development technologies, HTML5, CSS3, Bootstrap, Tailwind, JavaScript, Sass, WordPress and JQuery.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [ibidapoayomide754@gmail.com](mailto:ibidapoayomide754@gmail.com)
